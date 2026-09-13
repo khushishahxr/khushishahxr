@@ -1,4 +1,4 @@
-### Hi, I'm Khushi 👋
+### Hi, I'm Khushi 
 
 XR/AI designer based in Berlin, working at the intersection of design and engineering. 
 I build AR/AI-integrated experiences — from spatial storytelling to AI-driven interaction design.
@@ -12,4 +12,4 @@ I build AR/AI-integrated experiences — from spatial storytelling to AI-driven 
 **Portfolio:** [khushi-portfolio-blue.vercel.app](https://khushi-portfolio-blue.vercel.app)
 
 ---
-📫 Let's connect if you're working on XR, AI-driven design, or anything at that intersection.
+Let's connect if you're working on XR, AI-driven design, or anything at that intersection.
