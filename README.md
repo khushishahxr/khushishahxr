@@ -1,7 +1,7 @@
 ### Hi, I'm Khushi 
 
 XR/AI designer based in Berlin, working at the intersection of design and engineering. 
-I build AR/AI-integrated experiences — from spatial storytelling to AI-driven interaction design.
+I build immersive AI-integrated experiences — from spatial storytelling to AI-driven interaction design.
 
 🎓 Currently finishing my MSc in Media Design (Technology & AI) at MediaDesign Hochschule Berlin
 
